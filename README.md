@@ -1,6 +1,8 @@
 # bayesian-linear-regression
 Bayesian and regularized linear regression. This was an assignment for my graduate level machine learning course.
 
+Click [here](https://towardsdatascience.com/bayesian-priors-and-regularization-penalties-6d0054d9747b) for a little intuition on how this all works!
+
 ## Results
 ### Part 1: Regularization
 These are plots of training set MSE and test set MS as a function of the regularization parameter lambda
